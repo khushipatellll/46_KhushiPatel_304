@@ -1,0 +1,11 @@
+{
+  "name": "@khushi2703/que-11",
+  "version": "1.0.0",
+  "description": "Assignment Q-11 Package",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khushi",
+  "license": "ISC"
+}
